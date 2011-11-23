@@ -9,7 +9,7 @@ aside, nav, article, figure, fieldset {
 
 /* Body */
 	body {
-		background: #ffffff url("images/site_bg.gif") repeat-x;	
+		background: #ffffff url("site_bg.gif") repeat-x;	
 		color: #000000;
 		font-family: Helvetica;
 		line-height: 1.30;
@@ -87,7 +87,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 	clear: both;
 	width: 1679px;
 	margin: 0px auto;
-	background: url("images/siteglow.png") no-repeat 0 0px;	
+	background: url("siteglow.png") no-repeat 0 0px;	
 }
 
 
@@ -103,7 +103,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 
 #logo{
 	float: left;
-	background: url("images/logo.png") no-repeat 0 0px;	
+	background: url("logo.png") no-repeat 0 0px;	
 	width: 160px;
 	height: 139px;
 }
@@ -121,7 +121,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 	clear: both;
 	width: 1065px;
 	height: 611px;
-	background: url("images/mapsoon.png") no-repeat 0 0px;	
+	background: url("mapsoon.png") no-repeat 0 0px;	
 
 }
 
@@ -130,7 +130,7 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 	margin-top: 295px;
 	width: 1020px;
 	height: 221px;
-	background: url("images/details_bg.png") no-repeat 0 0px;	
+	background: url("details_bg.png") no-repeat 0 0px;	
 	padding-top: 26px;
 	margin-left: 20px;
 }
@@ -138,14 +138,14 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 .title_whatIs{
 	width: 225px;
 	height: 25px;
-	background: url("images/title_what.png") no-repeat 0 0px;
+	background: url("title_what.png") no-repeat 0 0px;
 }
 
 
 .title_about{
 	width: 179px;
 	height: 25px;
-	background: url("images/title_about.png") no-repeat 0 0px;
+	background: url("title_about.png") no-repeat 0 0px;
 }
 
 .detailsLeft {
